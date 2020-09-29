@@ -1,0 +1,34 @@
+# Site settings
+title: Explore | A Data Science Blog
+description: "This blog contains posts related to Data Science"
+url: "http://www.jacoporabolini.com/emerald"
+author:
+  name: "Anuj Sali"
+  email: "anuj.sali4@gmail.com"
+  url: "https://www.linkedin.com/in/anuj-sali/"
+
+# Build settings
+baseurl: /Explore/ # Change this to your relative path (ex: /blog/), or leave just a /
+markdown: kramdown
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 8
+paginate_path: /page:num/
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Custom variables
+version: "1.1.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
