@@ -1,14 +1,14 @@
 # Site settings
 title: Explore | A Data Science Blog
 description: "This blog contains posts related to Data Science"
-url: "http://www.jacoporabolini.com/emerald"
+
 author:
   name: "Anuj Sali"
   email: "anuj.sali4@gmail.com"
   url: "https://www.linkedin.com/in/anuj-sali/"
 
 # Build settings
-baseurl: /Explore/ # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: /eXplore/ # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
