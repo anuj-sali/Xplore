@@ -9,4 +9,4 @@ So come aboard! Anyone who has passion for data and can devote time to learning 
 Feel free to reach out to me:
 [My Linkedin](https://www.linkedin.com/in/anuj-sali/).
 
-![Linkedin](img/Linkedin-1.jpg "Linkedin")
+![Linkedin](img/linkedin.png "Linkedin")
