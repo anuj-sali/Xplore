@@ -1,5 +1,5 @@
 # Site settings
-title: Explore | A Data Science Blog
+title: Xplore | A Data Science Blog
 description: "This blog contains posts related to Data Science."
 
 author:
@@ -8,7 +8,7 @@ author:
   url: "https://www.linkedin.com/in/anuj-sali/"
 
 # Build settings
-baseurl: /eXplore/ # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: /Xplore/ # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
